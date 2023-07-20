@@ -1,0 +1,36 @@
+{
+  "name": "address",
+  "version": "1.0.0",
+  "description": "Ip Address Checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SazumiVicky/address.git"
+  },
+  "keywords": [
+    "ayaka",
+    "makemeow",
+    "sazumiviki",
+    "viki",
+    "sazumi",
+    "meow",
+    "addres",
+    "checker",
+    "expressjs",
+    "nodejs",
+    "apis",
+    "api"
+  ],
+  "author": "Sazumi Viki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SazumiVicky/address/issues"
+  },
+  "homepage": "https://github.com/SazumiVicky/address#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
